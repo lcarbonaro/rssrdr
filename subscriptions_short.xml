@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Les subscriptions in Google Reader</title>
+    </head>
+    <body>        
+        <outline title="News" text="News">
+            <outline text="BBC" title="BBC" type="rss"
+                xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml" htmlUrl="http://www.bbc.co.uk/news/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa"/>
+            <outline text="CNN" title="CNN" type="rss"
+                xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss" htmlUrl="http://www.cnn.com/index.html?eref=rss_topstories"/>
+            <outline text="Google News" title="Google News" type="rss"
+                xmlUrl="http://news.google.com/news?pz=1&amp;cf=all&amp;ned=us&amp;hl=en&amp;topic=h&amp;num=3&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;topic=h&amp;num=3"/>
+            <outline text="Reuters" title="Reuters" type="rss"
+                xmlUrl="http://feeds.reuters.com/reuters/topNews" htmlUrl="http://www.reuters.com"/>
+        </outline>
+        <outline title="Malta" text="Malta">
+            <outline text="independent - Home"
+                title="independent - Home" type="rss"
+                xmlUrl="http://www.independent.com.mt/rss/home-18743296/" htmlUrl="http://www.independent.com.mt/"/>
+            <outline text="independent - Opinions"
+                title="independent - Opinions" type="rss"
+                xmlUrl="http://www.independent.com.mt/rss/opinions-51118088/" htmlUrl="http://www.independent.com.mt/articles/opinions-51118088/"/>
+            <outline text="timesofmalta.com" title="timesofmalta.com"
+                type="rss" xmlUrl="http://www.timesofmalta.com/rss" htmlUrl="http://www.timesofmalta.com/"/>
+        </outline>
+        <outline title="Canada" text="Canada">
+            <outline text="Toronto Star" title="Toronto Star" type="rss"
+                xmlUrl="http://www.thestar.com/rss/list/1142976" htmlUrl="http://www.thestar.com/feeds.topstories.full.rss"/>
+        </outline>
+        <outline title="Language" text="Language">
+            <outline text="Wordsmith.org: Today's Word"
+                title="Wordsmith.org: Today's Word" type="rss"
+                xmlUrl="http://wordsmith.org/awad/rss1.xml" htmlUrl="http://wordsmith.org/"/>
+        </outline>
+        <outline title="Google" text="Google">
+            <outline text="Android Developers Blog"
+                title="Android Developers Blog" type="rss"
+                xmlUrl="http://android-developers.blogspot.com/feeds/posts/default" htmlUrl="http://android-developers.blogspot.com/"/>
+            <outline text="Gmail Blog" title="Gmail Blog" type="rss"
+                xmlUrl="http://gmailblog.blogspot.com/atom.xml" htmlUrl="http://gmailblog.blogspot.com/"/>
+            <outline text="Google Code Blog" title="Google Code Blog"
+                type="rss"
+                xmlUrl="http://code.google.com/feeds/updates.xml" htmlUrl="http://googledevelopers.blogspot.com/"/>
+            <outline text="Google Operating System"
+                title="Google Operating System" type="rss"
+                xmlUrl="http://feeds.feedburner.com/GoogleOperatingSystem" htmlUrl="http://googlesystem.blogspot.com/"/>
+            <outline text="The Official Google Blog"
+                title="The Official Google Blog" type="rss"
+                xmlUrl="http://googleblog.blogspot.com/atom.xml" htmlUrl="http://googleblog.blogspot.com/"/>
+        </outline>
+        <!-- SimplePie apparently cannot read https feeds?
+        <outline title="ETC" text="ETC">
+            <outline text="Fulltime" title="Fulltime" type="rss"
+                xmlUrl="https://secure.etc.gov.mt/RSS/FullTimeRSS.aspx" htmlUrl="https://secure.etc.gov.mt/FullTimeRSS.aspx"/>
+            <outline text="Parttime" title="Parttime" type="rss"
+                xmlUrl="https://secure.etc.gov.mt/RSS/PartTimeRSS.aspx" htmlUrl="https://secure.etc.gov.mt/PartTimeRSS.aspx"/>
+            <outline text="ReducedHours" title="ReducedHours"
+                type="rss"
+                xmlUrl="https://secure.etc.gov.mt/RSS/ReducedRSS.aspx" htmlUrl="https://secure.etc.gov.mt/ReducedRSS.aspx"/>
+            <outline text="Seasonal" title="Seasonal" type="rss"
+                xmlUrl="https://secure.etc.gov.mt/RSS/SeasonalRSS.aspx" htmlUrl="https://secure.etc.gov.mt/SeasonalRSS.aspx"/>
+        </outline>
+        -->
+    </body>
+</opml>

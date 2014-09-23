@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Google Reader Subscriptions</title>
+    </head>
+    <body>        
+        <outline title="Books" text="Books">
+            <outline text="NYT ArtsBeat" title="NYT ArtsBeat" type="rss"
+                xmlUrl="http://papercuts.blogs.nytimes.com/rss2.xml" htmlUrl="http://artsbeat.blogs.nytimes.com/"/>
+            <outline text="Salon Books" title="Salon Books" type="rss"
+                xmlUrl="http://feeds.salon.com/salon/books" htmlUrl="http://www.salon.com/rss/books.rss"/>
+            <outline text="NPR Books" title="NPR Books" type="rss"
+                xmlUrl="http://www.npr.org/rss/rss.php?id=1032" htmlUrl="http://www.npr.org/templates/story/story.php?storyId=1032&amp;ft=1&amp;f=1032"/>
+            <outline
+                text="Guardian Book News"
+                title="Guardian Book News"
+                type="rss"
+                xmlUrl="http://www.guardian.co.uk/rssfeed/0,,10,00.xml" htmlUrl="http://www.guardian.co.uk/books"/>
+            <outline text="London Review of Books"
+                title="London Review of Books" type="rss"
+                xmlUrl="http://www.lrb.co.uk/homerss.xml" htmlUrl="http://www.lrb.co.uk/"/>
+            <outline text="NYT Books" title="NYT Books" type="rss"
+                xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Books.xml" htmlUrl="http://www.nytimes.com/pages/books/index.html?partner=rss&amp;emc=rss"/>
+            <outline text="The Elegant Variation"
+                title="The Elegant Variation" type="rss"
+                xmlUrl="http://marksarvas.blogs.com/elegvar/atom.xml" htmlUrl="http://marksarvas.blogs.com/elegvar/"/>
+            <outline text="NY Review of Books"
+                title="NY Review of Books" type="rss"
+                xmlUrl="http://feeds.feedburner.com/nybooks" htmlUrl="http://www.nybooks.com/"/>
+            <outline text="Washington Post Book World"
+                title="Washington Post Book World" type="rss"
+                xmlUrl="http://www.washingtonpost.com/wp-dyn/rss/print/bookworld/index.xml" htmlUrl="http://www.washingtonpost.com/wp-dyn/content/print/bookworld/index.html?wprss=rss_print/bookworld"/>
+        </outline>        
+        <outline title="Buddhish" text="Buddhish">
+            <outline text="About.com Buddhism"
+                title="About.com Buddhism" type="rss"
+                xmlUrl="http://z.about.com/6/g/buddhism/b/rss2.xml" htmlUrl="http://buddhism.about.com/"/>
+            <outline text="Alan Watts Podcast"
+                title="Alan Watts Podcast" type="rss"
+                xmlUrl="http://feeds.feedburner.com/alanwatts" htmlUrl="http://www.alanwattspodcast.com"/>
+            <outline text="Audio Dharma" title="Audio Dharma" type="rss"
+                xmlUrl="http://feeds.feedburner.com/audiodharma" htmlUrl="http://www.audiodharma.org/"/>
+            <outline text="Buddhist Geeks" title="Buddhist Geeks"
+                type="rss"
+                xmlUrl="http://feeds.feedblitz.com/bgeekspodcast" htmlUrl="http://feeds.feedblitz.com/bgeekspodcast"/>
+            <outline text="Infinite Smile" title="Infinite Smile"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/infinitesmile" htmlUrl="http://www.infinitesmile.org"/>
+            <outline text="Kim Manley Ort" title="Kim Manley Ort"
+                type="rss"
+                xmlUrl="http://www.365daysofinspiration.com/blog/feed/" htmlUrl="http://www.365daysofinspiration.com/blog"/>
+            <outline text="Progressive Buddhism"
+                title="Progressive Buddhism" type="rss"
+                xmlUrl="http://progressivebuddhism.blogspot.com/feeds/posts/default" htmlUrl="http://progressivebuddhism.blogspot.com/"/>
+            <outline text="Rev. Danny Fisher" title="Rev. Danny Fisher"
+                type="rss" xmlUrl="http://dannyfisher.org/feed/" htmlUrl="http://dannyfisher.org"/>
+            <outline text="Stumbling Along The Path"
+                title="Stumbling Along The Path" type="rss"
+                xmlUrl="http://lazybuddhist.wordpress.com/feed/" htmlUrl="http://lazybuddhist.wordpress.com"/>
+            <outline text="The Buddhist Blog" title="The Buddhist Blog"
+                type="rss"
+                xmlUrl="http://thebuddhistblog.blogspot.com/feeds/posts/default" htmlUrl="http://thebuddhistblog.blogspot.com/"/>
+            <outline text="Think Simple Now" title="Think Simple Now"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/ThinkSimple" htmlUrl="http://thinksimplenow.com"/>
+            <outline text="Tiny Buddha" title="Tiny Buddha" type="rss"
+                xmlUrl="http://feeds.feedburner.com/tinybuddha" htmlUrl="http://tinybuddha.com"/>
+            <outline text="Tricycle" title="Tricycle" type="rss"
+                xmlUrl="http://blog.tricycle.com/?feed=rss2" htmlUrl="http://www.tricycle.com/blog"/>
+            <outline text="Wildmind Buddhist Meditation"
+                title="Wildmind Buddhist Meditation" type="rss"
+                xmlUrl="http://www.wildmind.org/feed/" htmlUrl="http://www.wildmind.org"/>
+            <outline text="WZEN.org" title="WZEN.org" type="rss"
+                xmlUrl="http://wzen.org/podcast/podcast.php" htmlUrl="http://wzen.org/category/podcast/"/>
+            <outline text="Zen At Play" title="Zen At Play" type="rss"
+                xmlUrl="http://feeds.feedburner.com/ZenAtPlay" htmlUrl="http://zenatplay.com"/>
+            <outline text="Zen Habits" title="Zen Habits" type="rss"
+                xmlUrl="http://feeds.feedburner.com/zenhabits" htmlUrl="http://zenhabits.net"/>
+            <outline text="Zencast" title="Zencast" type="rss"
+                xmlUrl="http://feeds.feedburner.com/Zencast" htmlUrl="http://amberstar.libsyn.com"/>
+            <outline text="Zencast Blog - Metta-Data for the Mindful"
+                title="Zencast Blog - Metta-Data for the Mindful"
+                type="rss" xmlUrl="http://zencast.wordpress.com/feed/" htmlUrl="http://zencast.wordpress.com"/>
+        </outline>        
+        <outline title="Canada" text="Canada">
+            <outline
+                text="Citizenship &amp; Immigration Canada"
+                title="Citizenship &amp; Immigration Canada"
+                type="rss"
+                xmlUrl="http://news.gc.ca/web/rss-eng.do?mthd=dpt&amp;crtr.dpt1D=6664" htmlUrl="http://news.gc.ca/web/index-eng.do"/>
+            <outline text="Canada.com National News"
+                title="canada.com National News" type="rss"
+                xmlUrl="http://o.canada.com/feed/" htmlUrl="http://o.canada.com/feed/"/>
+            <outline text="Council of Canadians"
+                title="Council of Canadians" type="rss"
+                xmlUrl="http://canadians.org/blog/?feed=rss2" htmlUrl="http://canadians.org/blog"/>
+            <outline text="Globe &amp; Mail" title="Globe &amp; Mail" type="rss"    
+                xmlUrl="http://www.theglobeandmail.com/?service=rss&amp;feed=topstories" htmlUrl="http://www.theglobeandmail.com/?service=rss&amp;feed=topstories" />                    
+            <outline text="Rabble.ca"
+                title="Rabble.ca" type="rss"
+                xmlUrl="http://rabble.ca/rss.xml" htmlUrl="http://rabble.ca"/>
+            <outline text="Toronto Star" title="Toronto Star" type="rss"
+                xmlUrl="http://www.thestar.com/rss/list/1142976" htmlUrl="http://www.thestar.com/feeds.topstories.full.rss"/>            
+        </outline>        
+        <outline title="Google" text="Google">
+            <outline text="Android Developers"
+                title="Android Developers" type="rss"
+                xmlUrl="http://android-developers.blogspot.com/feeds/posts/default" htmlUrl="http://android-developers.blogspot.com/"/>
+            <outline text="Gmail Blog" title="Gmail Blog" type="rss"
+                xmlUrl="http://gmailblog.blogspot.com/atom.xml" htmlUrl="http://gmailblog.blogspot.com/"/>
+            <outline text="Google Analytics Blog"
+                title="Google Analytics Blog" type="rss"
+                xmlUrl="http://analytics.blogspot.com/atom.xml" htmlUrl="http://analytics.blogspot.com/"/>            
+            <outline text="Google Code Blog" title="Google Code Blog"
+                type="rss"
+                xmlUrl="http://code.google.com/feeds/updates.xml" htmlUrl="http://googledevelopers.blogspot.com/"/>            
+            <outline text="Google OS"
+                title="Google OS" type="rss"
+                xmlUrl="http://feeds.feedburner.com/GoogleOperatingSystem" htmlUrl="http://googlesystem.blogspot.com/"/>
+            <outline text="Google Research Blog"
+                title="Google Research Blog" type="rss"
+                xmlUrl="http://googleresearch.blogspot.com/atom.xml" htmlUrl="http://googleresearch.blogspot.com/"/>
+            <outline text="Google Talkabout" title="Google Talkabout"
+                type="rss"
+                xmlUrl="http://googletalk.blogspot.com/atom.xml" htmlUrl="http://googletalk.blogspot.com/"/>
+            <outline text="Google Webmaster Central Blog"
+                title="Google Webmaster Central Blog" type="rss"
+                xmlUrl="http://googlewebmastercentral.blogspot.com/atom.xml" htmlUrl="http://googlewebmastercentral.blogspot.com/"/>
+            <outline text="The Official Google Blog"
+                title="The Official Google Blog" type="rss"
+                xmlUrl="http://googleblog.blogspot.com/atom.xml" htmlUrl="http://googleblog.blogspot.com/"/>
+        </outline>        
+        <outline title="Inspirational" text="Inspirational">
+            <outline text="Quotes of the Day" title="Quotes of the Day"
+                type="rss"
+                xmlUrl="http://www.quotationspage.com/data/qotd.rss" htmlUrl="http://www.quotationspage.com/qotd.html"/>
+            <outline text="Teachers and Computers"
+                title="Teachers and Computers" type="rss"
+                xmlUrl="http://teachersandcomputers.blogspot.com/feeds/posts/default" htmlUrl="http://teachersandcomputers.blogspot.com/"/>
+            <outline text="The Briar &amp; Leaf Chronicles"
+                title="The Briar &amp; Leaf Chronicles" type="rss"
+                xmlUrl="http://glpease.com/BriarAndLeaf/?feed=rss2" htmlUrl="http://glpease.com/BriarAndLeaf"/>
+            <outline text="The Briar Files" title="The Briar Files"
+                type="rss"
+                xmlUrl="http://briarfiles.blogspot.com/feeds/posts/default" htmlUrl="http://briarfiles.blogspot.com/"/>
+            <outline text="xkcd.com" title="xkcd.com" type="rss"
+                xmlUrl="http://xkcd.com/atom.xml" htmlUrl="http://xkcd.com/"/>
+        </outline>        
+        <outline title="Jobs" text="Jobs">
+           <outline text="Craigslist Ottawa (PHP)" title="Craigslist Ottawa (PHP)"
+                type="rss"
+                xmlUrl="http://ottawa.en.craigslist.ca/search/?areaID=76&amp;subAreaID=&amp;query=php&amp;catAbb=jjj&amp;format=rss" htmlUrl="http://ottawa.en.craigslist.ca/search/?areaID=76&amp;amp;catAbb=jjj&amp;amp;query=php"/>
+            <outline text="Craigslist Toronto (PHP)" title="Craigslist Toronto (PHP)"
+                type="rss"
+                xmlUrl="http://toronto.en.craigslist.ca/search/?areaID=25&amp;subAreaID=&amp;query=php&amp;catAbb=jjj&amp;format=rss" htmlUrl="http://toronto.en.craigslist.ca/search/?areaID=25&amp;amp;catAbb=jjj&amp;amp;query=php"/>
+            <outline text="Craigslist Toronto (Android)"
+                title="Craigslist Toronto (Android)" type="rss"
+                xmlUrl="http://toronto.en.craigslist.ca/search/?areaID=25&amp;subAreaID=&amp;query=android&amp;catAbb=jjj&amp;format=rss" htmlUrl="http://toronto.en.craigslist.ca/search/?areaID=25&amp;amp;catAbb=jjj&amp;amp;query=android"/>
+            <outline text="Craigslist Vancouver (PHP)" title="Craigslist Vancouver (PHP)"
+                type="rss"
+                xmlUrl="http://vancouver.en.craigslist.ca/search/?areaID=16&amp;subAreaID=&amp;query=php&amp;catAbb=jjj&amp;format=rss" htmlUrl="http://vancouver.en.craigslist.ca/search/?areaID=16&amp;amp;catAbb=jjj&amp;amp;query=php"/>
+            <outline text="Humber College HR" title="Humber College HR"
+                type="rss"
+                xmlUrl="http://hrs.humber.ca/career_opportunities/rss.php" htmlUrl="http://www.feedyes.com/feedshow.php?f=jscRRrmdsmzDo9IM"/>
+            <outline text="Kelly Services" title="Kelly Services" type="rss"
+                xmlUrl="http://ca.livejobs.recruitadvantage.com/job/jobs_to_rss.cfm" htmlUrl="http://ca.livejobs.recruitadvantage.com"/>
+            <outline text="Monster Jobs (PHP)"
+                title="Monster Jobs (PHP)" type="rss"
+                xmlUrl="http://rss.jobsearch.monster.com/rssquery.ashx?q=php&amp;cy=ca&amp;lid=224&amp;baseurl=jobview.monster.ca" htmlUrl="http://rss.jobsearch.monster.com/rssquery.ashx?q=php&amp;cy=ca&amp;lid=224&amp;baseurl=jobview.monster.ca"/>
+            <outline text="Workopolis" title="Workopolis"
+                type="rss"
+                xmlUrl="http://www.workopolis.com/RSS.aspx?action=Transfer&amp;View=Content/JobSeeker/jobsearchviewRSS&amp;id=69093557&amp;FT=Writer" htmlUrl="http://www.workopolis.com/"/>
+        </outline>        
+        <outline title="Language" text="Language">
+            <outline text="A Phrase A Week" title="A Phrase A Week"
+                type="rss"
+                xmlUrl="http://www.phrases.org.uk/a-phrase-a-week/index.xml" htmlUrl="http://www.phrases.org.uk/a-phrase-a-week/"/>
+            <outline text="A Way With Words" title="A Way With Words"
+                type="rss"
+                xmlUrl="http://feeds.waywordradio.org/awwwpodcast" htmlUrl="http://www.waywordradio.org"/>
+            <outline text="About.com ESL"
+                title="About.com ESL" type="rss"
+                xmlUrl="http://z.about.com/6/g/esl/b/rss2.xml" htmlUrl="http://esl.about.com/"/>                
+            <outline text="Language Log"
+                title="Language Log" type="rss"
+                xmlUrl="http://languagelog.ldc.upenn.edu/nll/?feed=rss2" htmlUrl="http://languagelog.ldc.upenn.edu/nll/?feed=rss2"/>                
+            <outline
+                text="The Writer's Almanac"
+                title="The Writer's Almanac"
+                type="rss"
+                xmlUrl="http://writersalmanac.publicradio.org/podcast/feed.php" htmlUrl="http://writersalmanac.publicradio.org"/>
+            <outline text="English, baby!"
+                title="English, baby!" type="rss"
+                xmlUrl="http://www.englishbaby.com/lessons/rss" htmlUrl="http://www.englishbaby.com/lessons"/>
+            <outline text="The Bad Sign Brigade"
+                title="The Bad Sign Brigade" type="rss"
+                xmlUrl="http://api.flickr.com/services/feeds/groups_pool.gne?id=40569469@N00&amp;lang=en-us&amp;format=rss_200" htmlUrl="http://www.flickr.com/groups/labels4dummies/pool/"/>
+            <outline text="Word Spy" title="Word Spy" type="rss"
+                xmlUrl="http://www.wordspy.com/rss.xml" htmlUrl="http://www.wordspy.com/"/>
+            <outline text="Wordnik"
+                title="Wordnik" type="rss"
+                xmlUrl="http://feeds.wordnik.com/wordnik" htmlUrl="http://blog.wordnik.com"/>
+            <outline text="Wordnik Words Of The Day"
+                title="Wordnik Words Of The Day" type="rss"
+                xmlUrl="http://www.wordnik.com/word-of-the-day/feed" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fwww.wordnik.com%2Fword-of-the-day%2Ffeed"/>
+            <outline text="Wordsmith AWAD"
+                title="Wordsmith AWAD" type="rss"
+                xmlUrl="http://wordsmith.org/awad/rss1.xml" htmlUrl="http://wordsmith.org/"/>
+        </outline>        
+        <outline title="Malta" text="Malta">            
+            <outline text="MI - Books"
+                title="MI - Books" type="rss"
+                xmlUrl="http://www.independent.com.mt/rss/books-51118104/" htmlUrl="http://www.independent.com.mt/articles/books-51118104/"/>
+            <outline text="MI - Company News"
+                title="MI - Company News" type="rss"
+                xmlUrl="http://www.independent.com.mt/rss/company-news-51118099/" htmlUrl="http://www.independent.com.mt/articles/company-news-51118099/"/>
+            <outline text="Malta Independent"
+                title="Malta Independent" type="rss"
+                xmlUrl="http://www.independent.com.mt/rss/home-18743296/" htmlUrl="http://www.independent.com.mt/"/>
+            <outline text="MI - Opinions"
+                title="MI - Opinions" type="rss"
+                xmlUrl="http://www.independent.com.mt/rss/opinions-51118088/" htmlUrl="http://www.independent.com.mt/articles/opinions-51118088/"/>
+            <outline text="J'accuse" title="J'accuse" type="rss"
+                xmlUrl="http://www.akkuza.com/feed/" htmlUrl="http://www.akkuza.com"/>
+            <outline text="Mark Sammut" title="Mark Sammut" type="rss"
+                xmlUrl="http://markanthonysammut.blogspot.com/feeds/posts/default" htmlUrl="http://markanthonysammut.blogspot.com/"/>
+            <outline text="MarkBiwwa" title="MarkBiwwa" type="rss"
+                xmlUrl="http://feeds.feedburner.com/Markbiwwa" htmlUrl="http://markbiwwa.com"/>
+            <outline type="rss" text="Running Commentary" title="Running Commentary" xmlUrl="http://daphnecaruanagalizia.com/feed/" htmlUrl="http://daphnecaruanagalizia.com"/>
+            <outline text="SHTF" title="SHTF" type="rss"
+                xmlUrl="http://shtfan.tumblr.com/rss" htmlUrl="http://shtfan.tumblr.com/"/>
+            <outline text="Times of Malta" title="Times of Malta"
+                type="rss" xmlUrl="http://www.timesofmalta.com/rss" htmlUrl="http://www.timesofmalta.com/"/>
+        </outline>        
+        <outline title="Music" text="Music">
+            <outline text="NPR Jazz &amp; Blues"
+                title="NPR Jazz &amp; Blues" type="rss"
+                xmlUrl="http://www.npr.org/rss/rss.php?id=10002" htmlUrl="http://www.npr.org/templates/story/story.php?storyId=10002&amp;ft=1&amp;f=10002"/>
+        </outline>        
+        <outline title="News" text="News">
+            <outline text="BBC" title="BBC" type="rss"
+                xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml" htmlUrl="http://www.bbc.co.uk/news/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa"/>
+            <outline text="CNN" title="CNN" type="rss"
+                xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss" htmlUrl="http://www.cnn.com/index.html?eref=rss_topstories"/>
+            <outline text="Google News" title="Google News" type="rss"
+                xmlUrl="http://news.google.com/news?pz=1&amp;cf=all&amp;ned=us&amp;hl=en&amp;topic=h&amp;num=3&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;topic=h&amp;num=3"/>
+            <outline text="Reuters" title="Reuters" type="rss"
+                xmlUrl="http://feeds.reuters.com/reuters/topNews" htmlUrl="http://www.reuters.com"/>
+        </outline>        
+        <outline title="PHP" text="PHP">
+            <outline text="PHPDeveloper.org" title="PHPDeveloper.org"
+                type="rss"
+                xmlUrl="http://www.phpdeveloper.org/phpdev.rdf" htmlUrl="http://www.phpdeveloper.org"/>
+            <outline
+                text="php|architect - The site for PHP professionals"
+                title="php|architect - The site for PHP professionals"
+                type="rss" xmlUrl="http://www.phparch.com/phpa.rss" htmlUrl="http://www.phparch.com"/>
+        </outline>        
+        <outline title="Tech" text="Tech">
+            <outline text="Wired Top Stories" title="Wired Top Stories"
+                type="rss"
+                xmlUrl="http://www.wired.com/news/feeds/rss2/0,2610,,00.xml" htmlUrl="http://www.wired.com"/>
+        </outline>
+       
+        
+        <!-- SimplePie apparently cannot read https feeds?
+        <outline title="ETC" text="ETC">
+            <outline text="Full-time" title="Full-time" type="rss"
+                xmlUrl="https://secure.etc.gov.mt/RSS/FullTimeRSS.aspx" htmlUrl="https://secure.etc.gov.mt/FullTimeRSS.aspx"/>
+            <outline text="Part-time" title="Part-time" type="rss"
+                xmlUrl="https://secure.etc.gov.mt/RSS/PartTimeRSS.aspx" htmlUrl="https://secure.etc.gov.mt/PartTimeRSS.aspx"/>
+            <outline text="Reduced Hours" title="Reduced Hours"
+                type="rss"
+                xmlUrl="https://secure.etc.gov.mt/RSS/ReducedRSS.aspx" htmlUrl="https://secure.etc.gov.mt/ReducedRSS.aspx"/>
+            <outline text="Seasonal" title="Seasonal" type="rss"
+                xmlUrl="https://secure.etc.gov.mt/RSS/SeasonalRSS.aspx" htmlUrl="https://secure.etc.gov.mt/SeasonalRSS.aspx"/>
+        </outline>
+        -->
+        
+
+        <!--
+        <outline title="Preston" text="Preston">
+            <outline text="Twitter" title="Twitter" type="rss"
+                xmlUrl="http://twitter.com/statuses/user_timeline/PJCarbonaro.rss" htmlUrl="http://twitter.com/PJCarbonaro"/>
+        </outline>
+        -->
+        
+       
+    </body>
+</opml>
