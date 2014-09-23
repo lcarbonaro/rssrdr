@@ -1,4 +1,4 @@
-RSS reader
+RSS reader experiment
 
 Uses:
 
